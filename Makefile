@@ -19,7 +19,7 @@
 # then uncomment the BRANCH line below, and comment out the TAG line
 #export BUILD_AMI_GIT_BRANCH=local
 export BUILD_AMI_GIT_REPO=git@github.com:jinal--shah/build_ami
-export BUILD_AMI_GIT_TAG:=0.0.6
+export BUILD_AMI_GIT_TAG:=0.0.7
 export PACKER_IAM_INSTANCE_PROFILE=responsive-jenkins-dev
 # ... LIB SOURCES
 
